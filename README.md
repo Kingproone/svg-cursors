@@ -33,7 +33,7 @@ If you know of any more themes for either implementation please open a pr/issue!
 | [Posy's](https://github.com/simtrami/posy-improved-cursor-linux) | hypr_posycursor.tar.gz, Posy_Cursor_Black_h.tar.gz |
 | [Material](https://github.com/varlesh/material-cursors) | material-cursors.tar.gz, material-dark-cursors.tar.gz, material-light-cursors.tar.gz |
 
-I have seen 1 similar list: https://github.com/sakshatshinde/hyprcursor-themes/blob/main/README.md
+I have seen 1 similar list: https://github.com/sakshatshinde/hyprcursor-themes
 
 I collected the list based on hyprlands discord server room [#hyprcursor-themes](https://discord.com/channels/961691461554950145/1216066899729977435)
 For the plasma talk check out: https://webchat.kde.org/#/room/#kwin:kde.org, or their mailing [list](https://mail.kde.org/mailman/listinfo/kwin)!
