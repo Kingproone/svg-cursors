@@ -13,8 +13,7 @@ If you know of any more themes for either implementation please open a pr/issue!
 | [Dracula KDE](https://github.com/dracula/gtk/tree/master/kde/cursors) | https://github.com/guillaumeboehm/hyprcursor_dracula_kde ||
 | [Future](https://github.com/yeyushengfan258/Future-cursors) - cyan | https://gitlab.com/Pummelfisch/future-cyan-hyprcursor ||
 | [macOS Cursors](https://github.com/ful1e5/apple_cursor) | https://github.com/driedpampas/macOS-hyprcursor ||
-| [McMojave](https://github.com/vinceliuice/McMojave-cursors) | https://github.com/Libadoxon/mcmojave-hyprcursor | |
-| [McMojave](https://github.com/vinceliuice/McMojave-cursors) | https://github.com/OtaK/McMojave-hyprcursor ||
+| [McMojave](https://github.com/vinceliuice/McMojave-cursors) | https://github.com/Libadoxon/mcmojave-hyprcursor, https://github.com/OtaK/McMojave-hyprcursor | |
 | [Nordzy](https://github.com/alvatip/Nordzy-cursors) | https://github.com/guillaumeboehm/Nordzy-hyprcursors ||
 | [Phinger](https://github.com/phisch/phinger-cursors) | https://github.com/Jappie3/hyprcursor-phinger ||
 | [Rosé Pine](https://github.com/rose-pine/cursor?tab=readme-ov-file) | https://github.com/ndom91/rose-pine-hyprcursor ||
