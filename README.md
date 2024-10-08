@@ -6,7 +6,7 @@ If you know of any more themes for either implementation please open a pr/issue!
 | name/original | [hypr](https://wiki.hyprland.org/Hypr-Ecosystem/hyprcursor/) - 2024.03. | [plasma](https://planet.kde.org/vlad-zahorodnii-2024-10-06-svg-cursors-everything-that-you-need-to-know-about-them/) - 2024.10. |
 | --- | --- | --- |
 | [Bibata](https://github.com/ful1e5/Bibata_Cursor) | https://github.com/LOSEARDES77/Bibata-Cursor-hyprcursor/ , has built in support||
-| [Breeze](https://invent.kde.org/plasma/breeze/-/tree/master/cursors) || https://invent.kde.org/plasma/breeze/-/tree/master/cursors/Breeze/Breeze/cursors_scalable |
+| [Breeze](https://invent.kde.org/plasma/breeze/-/tree/master/cursors) || https://invent.kde.org/plasma/breeze/-/tree/master/cursors/Breeze/Breeze/cursors_scalable, https://invent.kde.org/plasma/breeze/-/tree/master/cursors/Breeze_Light/Breeze_Light/cursors_scalable |
 | [BreezeX](https://github.com/ful1e5/BreezeX_Cursor) | Has built in support ||
 | [Catppuccin](https://github.com/catppuccin/cursors) | https://github.com/entailz/HyprcatoSVG/blob/master/README.md , has built in support as well ||
 | [DeepinV20 White Cursors](https://github.com/yeyushengfan258/DeepinV20-white-cursors) | https://github.com/PaideiaDilemma/DeepinV20-white-cursors ||
