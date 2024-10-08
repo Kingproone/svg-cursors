@@ -3,7 +3,7 @@
 Currently there are 2 different implementations of svg based cursors on linux, AFAIK they are not interoperable. <br />
 If you know of any more themes for either implementation please open a pr/issue!
 
-| name/original | [hypr](https://wiki.hyprland.org/Hypr-Ecosystem/hyprcursor/) | [plasma](https://planet.kde.org/vlad-zahorodnii-2024-10-06-svg-cursors-everything-that-you-need-to-know-about-them/) |
+| name/original | [hypr](https://wiki.hyprland.org/Hypr-Ecosystem/hyprcursor/) - 2024.03. | [plasma](https://planet.kde.org/vlad-zahorodnii-2024-10-06-svg-cursors-everything-that-you-need-to-know-about-them/) - 2024.10. |
 | --- | --- | --- |
 | [Bibata](https://github.com/ful1e5/Bibata_Cursor) | https://github.com/LOSEARDES77/Bibata-Cursor-hyprcursor/ , has built in support||
 | [Breeze](https://invent.kde.org/plasma/breeze/-/tree/master/cursors) || https://invent.kde.org/plasma/breeze/-/tree/master/cursors/Breeze/Breeze/cursors_scalable |
