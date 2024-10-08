@@ -1,6 +1,7 @@
 # svg cursors on linux
 
-Currently there are 2 different implementations of svg based cursors on linux, AFAIK they are not interoperable.
+Currently there are 2 different implementations of svg based cursors on linux, AFAIK they are not interoperable. <br />
+If you know of any more themes for either implementation please open a pr/issue!
 
 | name/original | [hypr](https://wiki.hyprland.org/Hypr-Ecosystem/hyprcursor/) | [plasma](https://planet.kde.org/vlad-zahorodnii-2024-10-06-svg-cursors-everything-that-you-need-to-know-about-them/) |
 | --- | --- | --- |
@@ -35,3 +36,4 @@ Currently there are 2 different implementations of svg based cursors on linux, A
 I have seen 1 similar list: https://github.com/sakshatshinde/hyprcursor-themes/blob/main/README.md
 
 I collected the list based on hyprlands discord server room [#hyprcursor-themes](https://discord.com/channels/961691461554950145/1216066899729977435)
+For the plasma talk check out: https://webchat.kde.org/#/room/#kwin:kde.org, or their mailing [list](https://mail.kde.org/mailman/listinfo/kwin)!
