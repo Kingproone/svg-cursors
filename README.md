@@ -21,16 +21,16 @@ If you know of any more themes for either implementation please open a pr/issue!
 
 | name/original | available on the hyprland discord server as compressed binaries |
 | --- | --- |
-| BreezeX | BreezeX-Dark-hyprcursor.zip, BreezeX-Amber.zip |
-| Bibata | HyprBibataModernClassicSVG.tar.gz |
-| Catpuccin | HyprcursorCatppuccinMochaMauve.tar.gz |
+| [Bibata](https://github.com/ful1e5/Bibata_Cursor) | HyprBibataModernClassicSVG.tar.gz |
+| [BreezeX](https://github.com/ful1e5/BreezeX_Cursor) | BreezeX-Dark-hyprcursor.zip, BreezeX-Amber.zip |
 | [Capitaine](https://github.com/keeferrourke/capitaine-cursors) | HyprCapitaineSVG.tar.gz, Capitaine_Gruvbox_Dark.zip |
-| Rosé Pine | rose-pine-cursor-hyprcursor.tar.gz |
-| [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) | qogir_hl.tar.gz |
+| [Catppuccin](https://github.com/catppuccin/cursors) | HyprcursorCatppuccinMochaMauve.tar.gz |
 | [GoogleDot](https://github.com/ful1e5/Google_Cursor) | GoogleDot-Black.zip, extracted_GoogleDot-Violet-SVG.zip, GoogleDot-Blue-Hyprcursor.tar.gz |
-| Nordzy | Nordzy-cursors-white-HYPR.tar.gz |
-| [Posy's](https://github.com/simtrami/posy-improved-cursor-linux) | hypr_posycursor.tar.gz, Posy_Cursor_Black_h.tar.gz |
 | [Material](https://github.com/varlesh/material-cursors) | material-cursors.tar.gz, material-dark-cursors.tar.gz, material-light-cursors.tar.gz |
+| [Nordzy](https://github.com/alvatip/Nordzy-cursors) | Nordzy-cursors-white-HYPR.tar.gz |
+| [Posy's](https://github.com/simtrami/posy-improved-cursor-linux) | hypr_posycursor.tar.gz, Posy_Cursor_Black_h.tar.gz |
+| [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) | qogir_hl.tar.gz |
+| [Rosé Pine](https://github.com/rose-pine/cursor?tab=readme-ov-file) | rose-pine-cursor-hyprcursor.tar.gz |
 
 I have seen 1 similar list: https://github.com/sakshatshinde/hyprcursor-themes
 
