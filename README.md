@@ -10,6 +10,7 @@ https://wayland.app/protocols/cursor-shape-v1 - the protocol making svg cursors 
 
 ### hyprcursor <br />
 https://wiki.hyprland.org/Hypr-Ecosystem/hyprcursor/ <br />
+https://standards.hyprland.org/hyprcursor/ <br />
 https://github.com/hyprwm/hyprcursor <br />
 
 ### kde plasma <br />
