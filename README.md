@@ -3,7 +3,24 @@
 Currently there are 2 different implementations of svg based cursors on linux, neither a standard yet and AFAIK they are not interoperable. <br />
 If you know of any more themes for either implementation please open a pr/issue!
 
-| name/original | [hypr](https://wiki.hyprland.org/Hypr-Ecosystem/hyprcursor/) - 2024.03. | [plasma](https://planet.kde.org/vlad-zahorodnii-2024-10-06-svg-cursors-everything-that-you-need-to-know-about-them/) - 2024.10. |
+# Blogs and articles on svg cursors on linux
+
+### wayland <br />
+https://wayland.app/protocols/cursor-shape-v1 - the protocol making svg cursors viable <br />
+
+### hyprcursor <br />
+https://wiki.hyprland.org/Hypr-Ecosystem/hyprcursor/ <br />
+https://github.com/hyprwm/hyprcursor <br />
+
+### kde plasma <br />
+https://planet.kde.org/vlad-zahorodnii-2024-10-06-svg-cursors-everything-that-you-need-to-know-about-them/ <br />
+https://blogs.kde.org/2024/10/09/cursor-size-problems-in-wayland-explained/ <br />
+https://invent.kde.org/plasma/breeze/-/merge_requests/433 (closed) <br />
+https://invent.kde.org/plasma/breeze/-/merge_requests/475 (merged) <br />
+https://invent.kde.org/plasma/kwin/-/merge_requests/6187 (merged) <br />
+
+
+| name/original | hyprcursor - 2024.03. | plasma - 2024.10. |
 | --- | --- | --- |
 | [Bibata](https://github.com/ful1e5/Bibata_Cursor) | https://github.com/LOSEARDES77/Bibata-Cursor-hyprcursor/ , aslo has built in support||
 | [Breeze](https://invent.kde.org/plasma/breeze/-/tree/master/cursors) || https://invent.kde.org/plasma/breeze/-/tree/master/cursors/Breeze/Breeze/cursors_scalable, https://invent.kde.org/plasma/breeze/-/tree/master/cursors/Breeze_Light/Breeze_Light/cursors_scalable |
