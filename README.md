@@ -5,19 +5,20 @@ If you know of any more themes for either implementation please open a pr/issue!
 
 | name/original | [hypr](https://wiki.hyprland.org/Hypr-Ecosystem/hyprcursor/) - 2024.03. | [plasma](https://planet.kde.org/vlad-zahorodnii-2024-10-06-svg-cursors-everything-that-you-need-to-know-about-them/) - 2024.10. |
 | --- | --- | --- |
-| [Bibata](https://github.com/ful1e5/Bibata_Cursor) | https://github.com/LOSEARDES77/Bibata-Cursor-hyprcursor/ , has built in support||
+| [Bibata](https://github.com/ful1e5/Bibata_Cursor) | https://github.com/LOSEARDES77/Bibata-Cursor-hyprcursor/ - has built in support||
 | [Breeze](https://invent.kde.org/plasma/breeze/-/tree/master/cursors) || https://invent.kde.org/plasma/breeze/-/tree/master/cursors/Breeze/Breeze/cursors_scalable, https://invent.kde.org/plasma/breeze/-/tree/master/cursors/Breeze_Light/Breeze_Light/cursors_scalable |
-| [BreezeX](https://github.com/ful1e5/BreezeX_Cursor) | Has built in support ||
-| [Catppuccin](https://github.com/catppuccin/cursors) | https://github.com/entailz/HyprcatoSVG/blob/master/README.md , has built in support as well ||
+| [BreezeX](https://github.com/ful1e5/BreezeX_Cursor) | has built in support ||
+| [Catppuccin](https://github.com/catppuccin/cursors) | https://github.com/entailz/HyprcatoSVG/blob/master/README.md - has built in support ||
 | [DeepinV20 White Cursors](https://github.com/yeyushengfan258/DeepinV20-white-cursors) | https://github.com/PaideiaDilemma/DeepinV20-white-cursors ||
 | [Dracula KDE](https://github.com/dracula/gtk/tree/master/kde/cursors) | https://github.com/guillaumeboehm/hyprcursor_dracula_kde ||
-| [Future](https://github.com/yeyushengfan258/Future-cursors) - cyan | https://gitlab.com/Pummelfisch/future-cyan-hyprcursor ||
+| [Future](https://github.com/yeyushengfan258/Future-cursors) | https://gitlab.com/Pummelfisch/future-cyan-hyprcursor - cyan ||
 | [macOS Cursors](https://github.com/ful1e5/apple_cursor) | https://github.com/driedpampas/macOS-hyprcursor ||
 | [McMojave](https://github.com/vinceliuice/McMojave-cursors) | https://github.com/Libadoxon/mcmojave-hyprcursor, https://github.com/OtaK/McMojave-hyprcursor | |
 | [Nordzy](https://github.com/alvatip/Nordzy-cursors) | https://github.com/guillaumeboehm/Nordzy-hyprcursors ||
 | [Phinger](https://github.com/phisch/phinger-cursors) | https://github.com/Jappie3/hyprcursor-phinger ||
 | [Rosé Pine](https://github.com/rose-pine/cursor?tab=readme-ov-file) | https://github.com/ndom91/rose-pine-hyprcursor ||
 | [Vimix](https://github.com/vinceliuice/Vimix-cursors) | https://github.com/BlackFuffey/vimix-hyprcursor ||
+| [Xcursor-Pro](https://github.com/ful1e5/XCursor-pro) | https://github.com/4lrick/XCursor-Pro-Hyprcursor - dark, light, red ||
 
 | name/original | available on the hyprland discord server as compressed binaries |
 | --- | --- |
