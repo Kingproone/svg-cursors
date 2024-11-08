@@ -15,6 +15,7 @@ If you know of any more themes for either implementation please open a pr/issue!
 | [macOS Cursors](https://github.com/ful1e5/apple_cursor) | https://github.com/driedpampas/macOS-hyprcursor ||
 | [McMojave](https://github.com/vinceliuice/McMojave-cursors) | https://github.com/Libadoxon/mcmojave-hyprcursor, https://github.com/OtaK/McMojave-hyprcursor | |
 | [Nordzy](https://github.com/alvatip/Nordzy-cursors) | https://github.com/guillaumeboehm/Nordzy-hyprcursors ||
+| [Notwaita](https://gitlab.com/donut2/notwaita-cursor-theme) | https://github.com/ful1e5/notwaita-cursor - black, white and gray||
 | [Phinger](https://github.com/phisch/phinger-cursors) | https://github.com/Jappie3/hyprcursor-phinger ||
 | [Rosé Pine](https://github.com/rose-pine/cursor?tab=readme-ov-file) | https://github.com/ndom91/rose-pine-hyprcursor ||
 | [Vimix](https://github.com/vinceliuice/Vimix-cursors) | https://github.com/BlackFuffey/vimix-hyprcursor ||
