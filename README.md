@@ -33,6 +33,7 @@ If you know of any more themes for either implementation please open a pr/issue!
 | [Nordzy](https://github.com/alvatip/Nordzy-cursors) | Nordzy-cursors-white-HYPR.tar.gz |
 | [Posy's](https://github.com/simtrami/posy-improved-cursor-linux) | hypr_posycursor.tar.gz, Posy_Cursor_Black_h.tar.gz |
 | [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) | qogir_hl.tar.gz |
+| [Phinger](https://github.com/phisch/phinger-cursors) | phinger-hyprcursors-light.tar.gz - light |
 | [Rosé Pine](https://github.com/rose-pine/cursor?tab=readme-ov-file) | rose-pine-cursor-hyprcursor.tar.gz |
 
 # Blogs, articles and more on svg cursors
