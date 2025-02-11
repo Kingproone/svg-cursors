@@ -18,6 +18,7 @@ If you know of any more themes for either implementation please open a pr/issue!
 | [Notwaita](https://gitlab.com/donut2/notwaita-cursor-theme) | https://github.com/ful1e5/notwaita-cursor - black, white and gray||
 | [Phinger](https://github.com/phisch/phinger-cursors) | https://github.com/Jappie3/hyprcursor-phinger ||
 | [Posy's Cursor](https://www.michieldb.nl/other/cursors/) | https://github.com/Morxemplum/posys-cursor-scalable - white, black, mono, and mono black ||
+| [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) | | has built in support |
 | [Rosé Pine](https://github.com/rose-pine/cursor?tab=readme-ov-file) | https://github.com/ndom91/rose-pine-hyprcursor ||
 | [Vimix](https://github.com/vinceliuice/Vimix-cursors) | https://github.com/BlackFuffey/vimix-hyprcursor ||
 | [Xcursor-Pro](https://github.com/ful1e5/XCursor-pro) | https://github.com/4lrick/XCursor-Pro-Hyprcursor - dark, light, red ||
@@ -35,6 +36,7 @@ If you know of any more themes for either implementation please open a pr/issue!
 | [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) | qogir_hl.tar.gz |
 | [Phinger](https://github.com/phisch/phinger-cursors) | phinger-hyprcursors-light.tar.gz - light |
 | [Rosé Pine](https://github.com/rose-pine/cursor?tab=readme-ov-file) | rose-pine-cursor-hyprcursor.tar.gz |
+| [Spore](https://en.wikipedia.org/wiki/Spore_(2008_video_game)) | Spore-hyprcursor-theme.tar.gz |
 
 # Blogs, articles and more on svg cursors
 
