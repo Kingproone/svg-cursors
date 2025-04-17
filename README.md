@@ -54,6 +54,7 @@ https://standards.hyprland.org/hyprcursor/ <br />
 https://github.com/hyprwm/hyprcursor <br />
 
 ### kde plasma <br />
+https://blogs.kde.org/2025/01/12/kcursorgen-and-svg-cursors/ <br />
 https://planet.kde.org/vlad-zahorodnii-2024-10-06-svg-cursors-everything-that-you-need-to-know-about-them/ <br />
 https://blogs.kde.org/2024/10/09/cursor-size-problems-in-wayland-explained/ <br />
 https://invent.kde.org/plasma/breeze/-/merge_requests/433 - this would've been hyprcursor on kde (closed) <br />
